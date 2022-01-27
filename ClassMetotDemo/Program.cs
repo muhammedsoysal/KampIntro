@@ -25,7 +25,7 @@ namespace ClassMetotDemo
             customer2.Mail = "MuhammedAliatila@gmail.com";
 
             Customer [] customers =new Customer[] { customer1, customer2 };
-            CustomerMenager customerMenager = new CustomerMenager();
+            CustomerManager customerMenager = new CustomerManager();
             customerMenager.Add(customer1);
             customerMenager.Add(customer2);
             Console.WriteLine("--------------------------");

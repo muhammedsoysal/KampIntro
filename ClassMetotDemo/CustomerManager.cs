@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassMetotDemo
 {
-    internal class CustomerMenager
+    internal class CustomerManager
     {
         public void Add(Customer customer)
         {
