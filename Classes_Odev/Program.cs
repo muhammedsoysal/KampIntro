@@ -21,7 +21,11 @@ namespace Classes_Odev
             Product []products=new Product[] { product1, product2 };
             foreach (var product in products)
             {
-                Console.WriteLine(product.ID+" "+product.Name+" "+product.UnitPrice+ " " + product.Detail);
+                Console.WriteLine(product.ID);
+                Console.WriteLine(product.Name);
+                Console.WriteLine(product.UnitPrice);
+                Console.WriteLine(product.Detail);
+                Console.WriteLine("--------------------------");
             }   
         }
         class Product
