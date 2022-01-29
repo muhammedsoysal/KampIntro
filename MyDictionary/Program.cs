@@ -17,7 +17,7 @@ namespace MyDictionary
             {
                 Console.WriteLine(dickisi);
             }
-            Console.WriteLine(dic.Count);   
+            Console.WriteLine(dic.Count);    
 
             Console.WriteLine("------------------------");
 
