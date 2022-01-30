@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{4D96D422-6AA2-4A25-815E-DA927A88A7BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1(Odev)", "RecapDemo1(Odev)\RecapDemo1(Odev).csproj", "{65EEB9E1-A8DA-4475-883E-B60C87AA8EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo1(Odev)", "RecapDemo1(Odev)\RecapDemo1(Odev).csproj", "{65EEB9E1-A8DA-4475-883E-B60C87AA8EA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
